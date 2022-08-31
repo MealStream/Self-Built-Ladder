@@ -34,7 +34,7 @@ https://v2rayn.org/
 6.转换订阅链接
 可以把链接转换为Clash订阅
 转换网址：
-https://acl4ssr-sub.github.io/
+https://bianyuan.xyz/
 
 7.缺点
 自建节点花费的时间和金钱更多
