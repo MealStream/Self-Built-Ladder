@@ -13,7 +13,7 @@ https://www.daniao.org/8657.html
 2.安装Xshell连接Ubuntu
 下载Xshell
 链接：
-https://www.newasp.com/soft/384562.html
+https://www.ghxi.com/xshell6.html
 连接教程：
 https://www.xshellcn.com/xsh_column/lianjie-xuniji.html
 
@@ -38,3 +38,13 @@ https://bianyuan.xyz/
 
 7.缺点
 自建节点花费的时间和金钱更多
+
+8.VPS测速
+测速脚本：curl -Lso- bench.sh | bash
+教程链接：
+https://zhuanlan.zhihu.com/p/117547388
+
+9.脚本管理
+输入命令：v2ray
+可以查询配置信息
+可以修改配置信息
