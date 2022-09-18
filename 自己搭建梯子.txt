@@ -41,7 +41,10 @@ https://bianyuan.xyz/
 自建节点花费的时间和金钱更多
 
 8.VPS测速
-测速脚本：curl -Lso- bench.sh | bash
+测速脚本：
+wget -qO- bench.sh | bash
+或
+curl -Lso- bench.sh | bash
 教程链接：
 https://zhuanlan.zhihu.com/p/117547388
 
